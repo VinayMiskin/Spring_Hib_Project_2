@@ -12,4 +12,3 @@ Technologies Used :
   JSP for the view layer.
   HSQLDB for the database.
   Maven for dependency management.
-  Git for version control.
